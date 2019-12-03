@@ -1,0 +1,26 @@
+{
+  "name": "expressgenerator",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1",
+    "node-cron": "^2.0.3",
+    "node-persist": "^3.0.5",
+    "nodemon": "^1.19.4",
+    "pug": "^2.0.4",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8",
+    "rimraf": "^3.0.0",
+    "zip-a-folder": "0.0.9",
+    "zip-folder": "^1.0.0"
+  }
+}
